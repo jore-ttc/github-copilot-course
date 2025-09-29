@@ -1,4 +1,2 @@
----
-applyTo: "**/*.py"
----
-Always respond in Danish
+- Always use bullet points
+- Be short and concise.
