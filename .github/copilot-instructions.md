@@ -1,3 +1,3 @@
 - Always use bullet points
 - Be short and concise.
-- USE CAPITAL LETTERS
+- USE CAPITAL LETTERS WHEN RESPONDING
